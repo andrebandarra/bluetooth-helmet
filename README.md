@@ -2,18 +2,19 @@
 
 Ozone Shield helmet with integrated (snag free) bluetooth coms
 
-![Table](/photos/thumb.jpg)
+![Table](/pics/thumb.jpg)
 
-https://www.youtube.com/watch?v=0sWBvgfqcA4
+https://www.youtube.com/watch?v=D0SLcXEw9Qc
 
 ## Description
 
-A few people have asked me to build a laser line measurement rig for paragliders and I finally got round to doing it.
-It uses a pretty inexpensive digital laser measure.
-I then built two rails and two carriages for each side of the system and it worked quite well. 
+I've wanted to improve the communication quality and ease with Gemma in flight so I designed and installed a smooth tangle-free bluetooth system on our new helmets. The result is instant 2 way communication, all hands free! Works really well and tested up to 1Km away but probably would work even further. Also no wind noise what so ever, pretty cool.
 
 ## BOM
 
-All made from 18mm baltic birch plywood.
+- Ozone Shield Helmet ([talk to us](https://andrebandarra.com/contact) if you can't find one locally)
+- EJEAS V6 Pro bluetooth headset from [AliExpress](https://www.aliexpress.com/item/1005004208128359.html)
+- 3D printed case ([STL Files](https://github.com/Andre-Bandarra/bluetooth-helmet/tree/main/STLS))
+- Tape
 
 [andrebandarra.com](https://andrebandarra.com/) --- [Youtube](https://www.youtube.com/channel/UCzYf1cmKwDMSiII9SSp6IJw) --- [Patreon](https://www.patreon.com/bandarra) 
